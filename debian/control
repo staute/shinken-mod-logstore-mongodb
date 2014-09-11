@@ -11,7 +11,7 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-shinken/shinken-mod-logstor
 Homepage: http://shinken.io/package/logstore-mongodb
 
 Package: shinken-mod-logstore-mongodb
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}, shinken-common, python-pymongo
 Breaks: shinken (<< 2~), shinken-common (<< 2~), shinken-core (<< 2~)
 Conflicts: shinken-module-broker-livestatus-mongodb
