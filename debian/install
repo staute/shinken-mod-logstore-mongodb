@@ -1,0 +1,3 @@
+module/* usr/share/pyshared/shinken/modules/logstore-mongodb
+README.md usr/share/doc/shinken-mod-logstore-mongodb
+etc/modules/* etc/shinken/modules

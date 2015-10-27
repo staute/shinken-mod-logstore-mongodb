@@ -1,0 +1,11 @@
+shinken-mod-logstore-mongodb (1.4.1-1) unstable; urgency=medium
+
+  [ Thibault Cohen ]
+  * New upstream version 1.4.1
+  * Add replaces shinken-module-broker-livestatus-mongodb
+  * Add custom config files
+  * Closes: #760228
+  [ Mathieu Parent ]
+  * Architecture: all
+
+ -- Mathieu Parent <sathieu@debian.org>  Thu, 11 Sep 2014 22:19:19 +0200
