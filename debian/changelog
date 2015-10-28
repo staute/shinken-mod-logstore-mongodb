@@ -1,3 +1,12 @@
+shinken-mod-logstore-mongodb (1.4.2-1+PIC001) unstable; urgency=medium
+
+  * New upstream version 1.4.2
+   - Repo: https://github.com/shinken-monitoring/mod-logstore-mongodb.git
+   - Branch: master
+   - Commit: 451d7231a16c4f05551f007eb853d6d33cfae26f
+
+ -- Stefan Taute (PLANET IC GmbH) <taute@planet-ic.de>  Wed, 28 Oct 2015 09:46:37 +0100
+
 shinken-mod-logstore-mongodb (1.4.1-1) unstable; urgency=medium
 
   [ Thibault Cohen ]
